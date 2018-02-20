@@ -1,6 +1,6 @@
 {
   "name": "@gucoloradoc/tutorial_freecodecamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tutorial of node.js server",
   "main": "index.js",
   "scripts": {
