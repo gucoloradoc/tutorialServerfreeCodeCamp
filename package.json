@@ -1,0 +1,21 @@
+{
+  "name": "@gucoloradoc/tutorial_freecodecamp",
+  "version": "1.0.0",
+  "description": "Tutorial of node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerson Colorado",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "server_tutorial_fcc"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
